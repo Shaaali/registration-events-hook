@@ -1,2 +1,2 @@
 # registration-events-hook
-# this component is to test reg events in Choreo dev
+# this component is to test reg events in Choreo dev, updating readme.
